@@ -1,3 +1,5 @@
+# This fork is used to embed the fraud risk inquiry form
+
 # README for Custom App Base
 
 This repository is a starting point for [Copilot Apps](https://www.copilot.com/apps). It is built using using [Next.js](https://nextjs.org/) and was bootstrapped with [create-next-app](https://nextjs.org/docs/pages/api-reference/create-next-app).
